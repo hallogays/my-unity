@@ -1,0 +1,22 @@
+{
+    "name": "tLightmap Optimizer",
+    "verson":"0.0.0",
+    "unity": "2025.3",
+    "displayName": "Lightmap Optimizer",
+    "description": "It is used for quick keyframe editing, timeline group management, animation preview enhancement, and animation event management",
+    "author": {
+        "name": "hallogays",
+        "email": "2706124076@qq.com",
+        "url": "https://github.com/hallogays/my-unity.git"
+    },
+    "keywords": [
+        "unity",
+        "Lightmap"
+    ],
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/hallogays/my-unity.git",
+        "revision": "master"
+    },
+    "hideInEditor": false
+}
