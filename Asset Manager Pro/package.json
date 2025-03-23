@@ -1,0 +1,23 @@
+{
+    "name": "asset-manager-pro",
+    "version": "1.0.0",
+    "displayName": "Asset Manager Pro",
+    "description": "Automate asset management in Unity",
+    "unity": "2022.3",
+    "author": {
+        "name": "hallogays",
+        "email": "2706124076@qq.com",
+        "url": "https://github.com/hallogays/my-unity.git"
+    },
+    "keywords": [
+        "asset",
+        "manager",
+        "unity"
+    ],
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/hallogays/my-unity.git",
+        "revision": "master"
+    },
+    "hideInEditor": false
+}
